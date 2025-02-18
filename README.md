@@ -1,7 +1,7 @@
 # Snake Game
 
 ## Introduction
-This is a simple console-based Snake Game implemented in C++ using the `<bits/stdc++.h>` and `<conio.h>` libraries. The game allows the player to control a snake that moves within a grid, consuming food to grow in size while avoiding collisions with the walls and itself.
+This is a simple console-based Snake Game implemented in C++ using the `<bits/stdc++.h>` and `<conio.h>` libraries. The game allows the player to control a snake that moves within a grid, consuming food to grow in size while avoiding collisions with the walls and itself.if you have any suggesition or improvements regarding game you can suggest me. 
 
 ## Features
 - **Dynamic Grid Size:** The user can choose from small, medium, or large grid sizes.
