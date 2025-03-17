@@ -53,7 +53,7 @@ This is a simple console-based Snake Game implemented in C++ using the `<bits/st
 - Multiplayer mode.
 
 ## Author
-Developed by [Your Name]
+Developed by Gaurav
 
 ## License
 This project is open-source and available under the MIT License.
